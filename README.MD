@@ -1,6 +1,4 @@
-$======================$
-$=  Anime Watch List  =$
-$======================$
+### **Anime Watch List** ###
 
 Java project in Swing.
 
